@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703676216 source:d:\iti\c++\lab 4\counter\main.cpp
+	"student.h"
+
+1703676098 d:\iti\c++\lab 4\counter\include\student.h
+	<iostream>
+
+1703676078 source:d:\iti\c++\lab 4\counter\src\student.cpp
+	"student.h"
+
+1703676216 source:e:\iti\c++\lab 4\counter\main.cpp
+	"student.h"
+

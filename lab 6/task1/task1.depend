@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1703757897 source:e:\iti\c++\lab 5\task1\main.cpp
+	"Base.h"
+	"Derived.h"
+
+1703757841 e:\iti\c++\lab 5\task1\include\base.h
+	<iostream>
+
+1703757829 e:\iti\c++\lab 5\task1\include\derived.h
+	"Base.h"
+
+1703983482 source:e:\iti\c++\lab 5\task1\src\base.cpp
+	"Base.h"
+
+1703757826 source:e:\iti\c++\lab 5\task1\src\derived.cpp
+	"Derived.h"
+
+1703983482 source:e:\iti\c++\lab 6\task1\src\base.cpp
+	"Base.h"
+
+1704020078 e:\iti\c++\lab 6\task1\include\base.h
+	<iostream>
+
+1703983665 source:e:\iti\c++\lab 6\task1\src\derived.cpp
+	"Derived.h"
+
+1704020142 e:\iti\c++\lab 6\task1\include\derived.h
+	"Base.h"
+
+1704020279 source:e:\iti\c++\lab 6\task1\main.cpp
+	"Base.h"
+	"Derived.h"
+

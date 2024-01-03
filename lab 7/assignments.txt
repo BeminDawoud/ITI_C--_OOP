@@ -1,0 +1,35 @@
+Day7 Lab Assignment: 
+
+================== 
+
+ 
+
+* Composition Example: Point, Rect, Circle, Line + drawing graphics. 
+
+- each class should have: attributes, constructors, setters, Draw() 
+
+ 
+
+* Association Example: Picture, Point, Rect, Circle, Line + graphics. 
+
+- class Picture should have: attributes, constructors, setters, Paint() 
+
+- set color in (Rect, Circle, Line) before drawing. 
+
+*Aggregation Example: Employee and address 
+
+ 
+
+Bonus: Using graphics draw    ITI   iti (using set color) 
+
+Bonus: 
+
+Using UML for each case  
+
+Composition (Folder - File) 
+
+Association (Student – Course) 
+
+Aggregation (Department - Employee) 
+
+ 

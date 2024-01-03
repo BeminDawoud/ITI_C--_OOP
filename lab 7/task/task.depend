@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704190844 source:e:\iti\c++\lab 7\task\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

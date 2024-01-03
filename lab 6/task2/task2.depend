@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1703759631 source:e:\iti\c++\lab 5\task2\src\geoshape.cpp
+	"GeoShape.h"
+
+1703759788 e:\iti\c++\lab 5\task2\include\geoshape.h
+	<iostream>
+	<cmath>
+
+1703759627 source:e:\iti\c++\lab 5\task2\src\rectangle.cpp
+	"Rectangle.h"
+
+1703759847 e:\iti\c++\lab 5\task2\include\rectangle.h
+	"GeoShape.h"
+
+1703759757 source:e:\iti\c++\lab 5\task2\src\square.cpp
+	"Square.h"
+
+1703759659 e:\iti\c++\lab 5\task2\include\square.h
+	"GeoShape.h"
+
+1703759938 source:e:\iti\c++\lab 5\task2\main.cpp
+	"GeoShape.h"
+	"Rectangle.h"
+	"Square.h"
+	"Circle.h"
+
+1703760018 e:\iti\c++\lab 5\task2\include\circle.h
+	"GeoShape.h"
+
+1703759919 source:e:\iti\c++\lab 5\task2\src\circle.cpp
+	"Circle.h"
+	<cmath>
+
+1703760246 source:e:\iti\c++\lab 6\task2\main.cpp
+	"GeoShape.h"
+	"Rectangle.h"
+	"Square.h"
+	"Circle.h"
+
+1704023702 e:\iti\c++\lab 6\task2\include\geoshape.h
+	<iostream>
+	<cmath>
+
+1704020596 e:\iti\c++\lab 6\task2\include\rectangle.h
+	"GeoShape.h"
+
+1704020600 e:\iti\c++\lab 6\task2\include\square.h
+	"GeoShape.h"
+
+1704020537 e:\iti\c++\lab 6\task2\include\circle.h
+	"GeoShape.h"
+
+1703759919 source:e:\iti\c++\lab 6\task2\src\circle.cpp
+	"Circle.h"
+	<cmath>
+
+1704021701 source:e:\iti\c++\lab 6\task2\src\geoshape.cpp
+	"GeoShape.h"
+
+1703759627 source:e:\iti\c++\lab 6\task2\src\rectangle.cpp
+	"Rectangle.h"
+
+1703759757 source:e:\iti\c++\lab 6\task2\src\square.cpp
+	"Square.h"
+

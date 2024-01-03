@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1704174830 source:e:\iti\c++\lab 7\composition\main.cpp
+	"point.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Line.h"
+	"picture.h"
+
+1704170024 source:e:\iti\c++\lab 7\composition\src\point.cpp
+	"point.h"
+
+1704170024 e:\iti\c++\lab 7\composition\include\point.h
+	<iostream>
+	<graphics.h>
+
+1704168678 source:e:\iti\c++\lab 7\composition\src\circle.cpp
+	"Circle.h"
+
+1704168405 e:\iti\c++\lab 7\composition\include\circle.h
+	"point.h"
+
+1704168398 source:e:\iti\c++\lab 7\composition\src\rectangle.cpp
+	"Rectangle.h"
+
+1704168381 e:\iti\c++\lab 7\composition\include\rectangle.h
+	"point.h"
+
+1704168708 e:\iti\c++\lab 7\composition\include\line.h
+	"point.h"
+
+1704169144 source:e:\iti\c++\lab 7\composition\src\line.cpp
+	"Line.h"
+
+1704174917 source:e:\iti\c++\lab 7\composition\src\picture.cpp
+	"picture.h"
+	<graphics.h>
+
+1704174900 e:\iti\c++\lab 7\composition\include\picture.h
+	"Circle.h"
+	"Rectangle.h"
+	"Line.h"
+
